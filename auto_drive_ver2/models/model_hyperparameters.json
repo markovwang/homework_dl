@@ -1,0 +1,1 @@
+{"resnet": 101, "pretrained_resnet": true, "sequence_size": 5, "embedded_size": 256, "hidden_size": 128, "num_layers_lstm": 1, "bidirectional_lstm": true, "layers_out": null, "dropout_cnn": 0.2, "dropout_cnn_out": 0.1, "dropout_lstm": 0.0, "dropout_lstm_out": 0.1, "fp16": false}
